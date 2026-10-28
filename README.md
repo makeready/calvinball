@@ -2,7 +2,7 @@
 
 
 <img width="1400" height="991" alt="image" src="https://github.com/user-attachments/assets/94311faf-5d63-4523-94fc-2cfe28beb33a" />
-Apologies and thanks to Bill Watters :)
+Apologies and thanks to Bill Watterson :)
 
 A two-player game for [Claude Code](https://claude.com/claude-code), where the real contest is prompting.
 
